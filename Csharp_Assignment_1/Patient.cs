@@ -30,7 +30,7 @@ namespace Csharp_Assignment_1
         {
             if (systolic < 120 && diastolic < 80)
             {
-                return "NORMAL";
+                return "NORMALLLLLL";
             }
             else if (systolic >= 120 && systolic <= 129 && diastolic < 80)
             {
