@@ -1,0 +1,15 @@
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/bin/Debug/net7.0/Csharp_Assignment_1
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/bin/Debug/net7.0/Csharp_Assignment_1.deps.json
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/bin/Debug/net7.0/Csharp_Assignment_1.runtimeconfig.json
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/bin/Debug/net7.0/Csharp_Assignment_1.dll
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/bin/Debug/net7.0/Csharp_Assignment_1.pdb
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.csproj.AssemblyReference.cache
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.AssemblyInfoInputs.cache
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.AssemblyInfo.cs
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.csproj.CoreCompileInputs.cache
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.dll
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/refint/Csharp_Assignment_1.dll
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.pdb
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/Csharp_Assignment_1.genruntimeconfig.cache
+/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/Debug/net7.0/ref/Csharp_Assignment_1.dll
