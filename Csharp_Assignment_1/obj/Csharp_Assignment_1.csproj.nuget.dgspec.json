@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tracy/Desktop/ASP/Assignment#1/Csharp_Assignment_1/Csharp_Assignment_1.csproj": {}
+    "/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/Csharp_Assignment_1.csproj": {}
   },
   "projects": {
-    "/Users/tracy/Desktop/ASP/Assignment#1/Csharp_Assignment_1/Csharp_Assignment_1.csproj": {
+    "/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/Csharp_Assignment_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tracy/Desktop/ASP/Assignment#1/Csharp_Assignment_1/Csharp_Assignment_1.csproj",
+        "projectUniqueName": "/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/Csharp_Assignment_1.csproj",
         "projectName": "Csharp_Assignment_1",
-        "projectPath": "/Users/tracy/Desktop/ASP/Assignment#1/Csharp_Assignment_1/Csharp_Assignment_1.csproj",
+        "projectPath": "/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/Csharp_Assignment_1.csproj",
         "packagesPath": "/Users/tracy/.nuget/packages/",
-        "outputPath": "/Users/tracy/Desktop/ASP/Assignment#1/Csharp_Assignment_1/obj/",
+        "outputPath": "/Users/tracy/Desktop/ASP/Assignment#1/Csharp-Assignment-1/Csharp_Assignment_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tracy/.nuget/NuGet/NuGet.Config"
