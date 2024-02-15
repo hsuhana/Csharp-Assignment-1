@@ -4,9 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Patient patient = new Patient("John", "Doe", 70, 180);
-        //Console.WriteLine(patient.CalculateBloodPressure(125, 81));
-        //Console.WriteLine(patient.BMI());
+
+        //ask user input personal information
         Console.WriteLine("Please type your information");
         Console.Write("Your Birth Year: ");
         int birthYear = int.Parse(Console.ReadLine());
@@ -29,8 +28,10 @@ class Program
         Console.Write("DIASTOLIC mm Hg (upper number): ");
         int diastolic = int.Parse(Console.ReadLine());
 
+
         Patient patient = new Patient(firstname, lastname, weight, height);
 
+        //output all related information
         Console.WriteLine("\n");
         Console.WriteLine("Your healthy check result is as below: ");
 

@@ -3,11 +3,13 @@ namespace Csharp_Assignment_1
 {
 	public class Patient
 	{
+        //four properties
         private string firstName;
         private string lastName;
         private double weight;
         private double height;
 
+        //constructor
         public Patient(string firstName, string lastName, double weight, double height)
 		{
             this.firstName = firstName;
@@ -16,6 +18,7 @@ namespace Csharp_Assignment_1
             this.height = height;
         }
 
+        //getter and setter
         public string FirstName { get => firstName; set => firstName = value; }
         public string LastName { get => lastName; set => lastName = value; }
         public double Weight { get => weight; set => weight = value; }
@@ -26,6 +29,8 @@ namespace Csharp_Assignment_1
         //public double Weight { get; set; }     // Weight in KG
         //public double Height { get; set; }     // Height in Centimetres
 
+
+        //calculate blood pressure method
         public string CalculateBloodPressure(int systolic, int diastolic)
         {
             if (systolic < 120 && diastolic < 80)
@@ -53,6 +58,7 @@ namespace Csharp_Assignment_1
             }
         }
 
+        //calculate BMI method
         public double BMI() {
 
             double result;
@@ -60,11 +66,13 @@ namespace Csharp_Assignment_1
             return result;
         }
 
+        //calculate age method
         public static int CalculateAge(int birthYear) {
             int age = 2024 - birthYear;
             return age;
         }
 
+        //output all patient information method
         public void ShowInformation(int systolic, int diastolic) {
            
             Console.WriteLine("Full Name: " + firstName + " " + lastName);
