@@ -30,7 +30,7 @@ namespace Csharp_Assignment_1
         {
             if (systolic < 120 && diastolic < 80)
             {
-                return "NORMALLLLLL";
+                return "NORMAL";
             }
             else if (systolic >= 120 && systolic <= 129 && diastolic < 80)
             {
@@ -60,19 +60,25 @@ namespace Csharp_Assignment_1
             return result;
         }
 
-        public void ShowInformation() {
+        public static int CalculateAge(int birthYear) {
+            int age = 2024 - birthYear;
+            return age;
+        }
+
+        public void ShowInformation(int systolic, int diastolic) {
+           
             Console.WriteLine("Full Name: " + firstName + " " + lastName);
-            Console.WriteLine("Weight: " + weight);
+            Console.WriteLine("Weight: " + weight + " kg");
             Console.WriteLine("Height: " + height + " cm");
-            Console.WriteLine(CalculateBloodPressure(112, 80));
-            Console.WriteLine(BMI());
+            Console.WriteLine("Blood Prssure Status: " + CalculateBloodPressure(systolic, diastolic));
+            //Console.WriteLine(BMI());
             string bmiStatus = "Underweight";
             if (BMI() >= 25.0) {
                 bmiStatus = "Overweight";
             }else if((BMI() >= 18.5) && (BMI() <= 24.9)) {
                 bmiStatus = "Normal";
             }
-            Console.WriteLine("BMI status: " + bmiStatus);
+            Console.WriteLine("BMI Status: " + bmiStatus);
         }
     }
 
